@@ -1,0 +1,47 @@
+[33mcommit 25cd4f955f13d56ed3f331420b1bc79ca6430c8d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: flaamer <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 13:50:39 2024 +0530
+
+    Fix broken link in lasagna.html
+    
+    Img tag was given href attribute instead of src
+
+[33mcommit d7ccd9606aa0fbb7bb09802eef43a798109c0c5c[m
+Author: flaamer <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 12:27:26 2024 +0530
+
+    Add recipe content to lasagna.html
+    
+    Add the description, ingredients and steps to the recipe
+
+[33mcommit 3692a3250200a111ba92fd3b7fe975ccf6f01c18[m
+Author: flaamer <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 11:58:35 2024 +0530
+
+    Add recipes directory with lasagna.html
+    
+    lasagna.html contains standard html boilerplate with h1 heading "World's
+     Best Lasagna"
+    
+    Also modified index.html to link to lasagna.html
+
+[33mcommit 23d0e7ad64724aec12150f67831180b0e1edaa43[m
+Author: flaamer <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 11:45:25 2024 +0530
+
+    Create index.html file
+    
+    index.html has the usual boilerplate HTML with an h1 heading "Odin
+    Recipes" in body
+
+[33mcommit 6adae8d3c76acfe3e57902b41fc81c95f6ce36e0[m
+Author: flaamer <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 11:42:40 2024 +0530
+
+    Fix typo in README.md
+
+[33mcommit 11834581d9af9bd13978a3c03692a849c172a011[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: FLAAMER <88228748+FLAAMER@users.noreply.github.com>
+Date:   Fri Mar 15 11:36:04 2024 +0530
+
+    Initial commit
