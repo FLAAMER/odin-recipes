@@ -1,0 +1,25 @@
+/* headings */
+h1,
+h2{
+    background-color: #f0f;
+    font-family: Verdana, sans-serif;
+}
+
+/* unordered lists */
+ul{
+    background-color: aquamarine;
+}
+
+/* ordered lists */
+ol{
+    background-color: tomato;
+}
+
+/* paragraphs */
+p{
+    background-color: yellowgreen;
+    font-family: arial, sans-serif;
+    color: teal;
+}
+
+/* images */
